@@ -28,4 +28,3 @@ No VC. No team. No excuses.
 *Bavaria · 18 · Self-employed by 2027*
 
 
-![GitHub Activity](https://ghchart.rshah.org/julius15deu-ctrl)
