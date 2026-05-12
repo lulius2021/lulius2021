@@ -14,3 +14,5 @@ Endurance sports — MOUNTAINMAN XL 52km/2100Hm in September
 
 
 Building in public. Apps live in the App Store soon.
+
+![GitHub Activity](https://ghchart.rshah.org/lulius2021)
