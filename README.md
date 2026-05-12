@@ -1,18 +1,28 @@
-Julius Deusch
-Indie Developer · Bavaria, Germany
-Building iOS apps and SaaS products. Goal: fully self-employed by mid-2027.
+# Julius Deusch
 
-🚧 Currently Shipping
-ProjectDescriptionStackStatusTrainQAdaptive training app — running, cycling, gymReact · TypeScript · Capacitor · Supabase🟡 App Store submissionManifestLab3D dream garage · daily ritual appThree.js · React · RevenueCat🔨 Building
+Not a developer. Just dangerously good at building apps.
 
-What I'm into
+---
 
-Shipping fast, iterating faster
-AI-assisted development (Claude Code, Codex)
-Endurance sports — MOUNTAINMAN XL 52km/2100Hm in September
+### Shipping
 
+**[TrainQ](https://github.com/lulius2021/trainq)** — training app for people who actually train  
+**ManifestLab** — 3D dream garage. manifestation with taste.
 
+---
 
-Building in public. Apps live in the App Store soon.
+### Stack
 
-![GitHub Activity](https://ghchart.rshah.org/monotykamary)
+`TypeScript` · `React` · `Capacitor` · `Supabase` · `Three.js` · `Claude Code`
+
+---
+
+### Also
+
+Marathon runner. Ultramarathon in September. Building the dream body alongside the dream apps.
+
+No VC. No team. No excuses.
+
+---
+
+*Bavaria · 18 · Self-employed by 2027*
