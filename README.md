@@ -1,16 +1,24 @@
-## Hi there 👋
+Julius Noll
+Indie Developer · Bavaria, Germany
+Building iOS apps and SaaS products. Goal: fully self-employed by mid-2027.
 
-<!--
-**lulius2021/lulius2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚧 Currently Shipping
+ProjectDescriptionStackStatusTrainQAdaptive training app — running, cycling, gymReact · TypeScript · Capacitor · Supabase🟡 App Store submissionManifestLab3D dream garage · daily ritual appThree.js · React · RevenueCat🔨 Building
 
-Here are some ideas to get you started:
+Stack
+Bild anzeigen
+Bild anzeigen
+Bild anzeigen
+Bild anzeigen
+Bild anzeigen
+Bild anzeigen
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I'm into
+
+Shipping fast, iterating faster
+AI-assisted development (Claude Code, Codex)
+Endurance sports — MOUNTAINMAN XL 52km/2100Hm in September
+
+
+
+Building in public. Apps live in the App Store soon.
