@@ -5,14 +5,6 @@ Building iOS apps and SaaS products. Goal: fully self-employed by mid-2027.
 🚧 Currently Shipping
 ProjectDescriptionStackStatusTrainQAdaptive training app — running, cycling, gymReact · TypeScript · Capacitor · Supabase🟡 App Store submissionManifestLab3D dream garage · daily ritual appThree.js · React · RevenueCat🔨 Building
 
-Stack
-Bild anzeigen
-Bild anzeigen
-Bild anzeigen
-Bild anzeigen
-Bild anzeigen
-Bild anzeigen
-
 What I'm into
 
 Shipping fast, iterating faster
