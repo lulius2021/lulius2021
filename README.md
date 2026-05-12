@@ -1,4 +1,4 @@
-Julius Noll
+Julius Deusch
 Indie Developer · Bavaria, Germany
 Building iOS apps and SaaS products. Goal: fully self-employed by mid-2027.
 
